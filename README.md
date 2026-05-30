@@ -6,8 +6,8 @@
 
 仓库内已经包含一组演示数据：2 篇示例论文 PDF、SQLite 业务库和 ChromaDB 向量索引。克隆后直接启动即可看到论文、方法卡和引用面板，不会是空白知识库。
 
-## 功能概览
-![Uploading d42bbb924fb425abb54394df30b8e678.png…]()
+## 功能概览<img width="2546" height="1402" alt="d42bbb924fb425abb54394df30b8e678" src="https://github.com/user-attachments/assets/0a0b9b11-0ba7-4866-9611-215fec843ec1" />
+
 
 - PDF 论文上传、解析、MD5 去重和入库。
 - 使用 ChromaDB 做 chunk 与方法卡向量检索。
